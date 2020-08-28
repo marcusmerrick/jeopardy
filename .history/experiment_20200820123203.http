@@ -1,0 +1,13 @@
+GET https://xkcd.com/
+
+###
+GET https://xkcd.com/s/7d94e0.css
+###
+
+https://api.chucknorris.io/jokes/random
+###
+
+GET https://cat-fact.herokuapp.com/facts
+
+###
+http://gateway.marvel.com/v1/public/characters?nameStartsWith=Nightcrawler&ts=198716345789&apikey=7e1fda7be0e2a45f1b37f57af347e437&hash=dfc7611a7d13bdbfc7fb49e1c2e16ca8

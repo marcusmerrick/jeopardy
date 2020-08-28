@@ -1,0 +1,9 @@
+GET https://xkcd.com/
+
+###
+GET https://xkcd.com/s/7d94e0.css
+###
+
+https://api.chucknorris.io/jokes/random
+
+GET https://cat-fact.herokuapp.com/facts
